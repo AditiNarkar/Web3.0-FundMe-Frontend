@@ -1,0 +1,5 @@
+1. The one who accesses the website, can fund the contract
+2. ETHs are stored in the contraact
+3. Omly owner can withdraw in his account
+
+acc2 is owner, acc3 is funder
